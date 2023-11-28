@@ -1,0 +1,19 @@
+.header {
+    gap: 450px;
+  }
+
+.top {
+  align-items: center;
+}
+
+.body {
+  margin: 0px;
+}
+
+.logo {
+  font-size: 24px;
+}
+
+.links {
+  gap: 15px;
+}
